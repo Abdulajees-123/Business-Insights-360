@@ -164,3 +164,50 @@ Fact table : It will have the data about the transactions
 
 <img src="https://github.com/Abdulajees-123/Business-Insights-360/blob/main/Data_Modelling.PNG" class="center">
 
+### Dashboard designing
+
+Based on the mock ups received as a requirement, the team will start designing the visuals and create measure as and when required
+
+## Home view
+
+In Home view, all the views button will be available. User will land on specific view page by clicking the button 
+
+- Info
+- Finance View
+- Sales View
+- Marketing View
+- Supply chain View
+- Executive View
+- Products
+- Support
+
+## Info Page
+
+![Info.gif](https://github.com/Abdulajees-123/Business-Insights-360/blob/main/Home.PNG)
+
+## Finance View
+
+![Finace.gif](https://github.com/Abdulajees-123/Business-Insights-360/blob/main/Finance_View.PNG)
+
+## Sales View
+
+![Sales.gif](https://github.com/Abdulajees-123/Business-Insights-360/blob/main/Sales_View.PNG)
+
+## Marketing View
+
+![Marketing.gif](https://github.com/Abdulajees-123/Business-Insights-360/blob/main/Marketing_View.PNG)
+
+## Executive View
+
+![Executive.gif](https://github.com/Abdulajees-123/Business-Insights-360/blob/main/Executive_View.PNG)
+
+you can find the full report file here : [Report](https://app.powerbi.com/groups/me/reports/8fd6a6bb-d447-447c-8c68-2695b29d2265/ReportSection3e6d270a5b20870d7cd8?experience=power-bi)
+
+## Project Outcome
+
+By using this report, decisions can be made based on the data. Further, it will help in answering n number of why questions based on the situation.
+
+
+
+
+
