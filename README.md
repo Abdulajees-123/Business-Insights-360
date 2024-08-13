@@ -54,7 +54,7 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - Gross Margin
 - Net sales
 - Net profit
-- COGC - cost of goods sold
+- COGS - cost of goods sold
 - YTD - Year to Date
 - YTG - Year to Go
 - Direct
